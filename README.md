@@ -40,7 +40,7 @@ I'm a passionate BCA student at Tribhuvan University, Nepal, with a keen interes
 Here are some of my noteworthy projects:
 
 1. **Portfolio Website**: A responsive portfolio website showcasing my skills and projects. [Link](#)
-2. **E-commerce Website**: Built an e-commerce platform using Django for a client. [Link](#)
+2. **E-commerce Website**: Built an e-commerce platform using MERN-Stack for a client. [Link](#)
 3. **Weather App**: A simple weather application using HTML, CSS, and JavaScript. [Link](#)
 
 ## Most Used Languages
