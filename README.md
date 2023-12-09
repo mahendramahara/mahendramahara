@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 - 🔭 I’m a Full Stack Developer from Nepal.
-- 👯 I’m actively seeking collaboration opportunities
+- 👯 I’m actively seeking collaboration opportunities.
 - 🤔 I have a passion for sharing knowledge and teaching others.
 - ⚡ I’m currently studying Bachelor of Computer Applications (BCA) from Tribhuvan University.
 
