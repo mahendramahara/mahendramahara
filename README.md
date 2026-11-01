@@ -91,41 +91,39 @@ I'm interested in building software that actually works well in production - rel
 
 I enjoy building software that addresses practical problems and explores real-world engineering challenges.
 
-### 🏠 [Room Finder Nepal](https://roomfindernepal.com/)
-A room and accommodation discovery platform connecting property seekers with people listing rooms, flats, hostels, and other rental opportunities.
-
-Focus: Backend architecture, REST APIs, database design, real-time features, web and mobile applications.
-
-### 📚 [Sparrow LMS](https://sparrow-lms.miro.com.np/)
-A learning management system designed to support digital learning, educational resources, and online learning experiences.
-
-Focus: Full-stack development, backend services, payment integration, and educational technology.
-
-### 📖 [Smriti Lekha](https://github.com/mahendramahara/smriti-lekha-platform)
-A digital heritage project exploring Nepal's folklore, cultural knowledge, and traditional stories through technology.
-
-Focus: Software development, information organization, and data-driven features.
+| Project | Description | Focus |
+| :--- | :--- | :--- |
+| 🏠 **[Room Finder Nepal](https://roomfindernepal.com/)** | A room and accommodation discovery platform connecting property seekers with people listing rooms, flats, hostels, and other rental opportunities. | Backend architecture, REST APIs, database design, real-time features, web and mobile applications. |
+| 📚 **[Sparrow LMS](https://sparrow-lms.miro.com.np/)** | A learning management system designed to support digital learning, educational resources, and online learning experiences. | Full-stack development, backend services, payment integration, and educational technology. |
+| 📖 **[Smriti Lekha](https://github.com/mahendramahara/smriti-lekha-platform)** | A digital heritage project exploring Nepal's folklore, cultural knowledge, and traditional stories through technology. | Software development, information organization, and data-driven features. |
 
 ---
 
-## Areas I'm Exploring
-
-- System Design & Software Architecture
-- Scalable Backend Systems & API Design
-- Database Architecture & Optimization
-- Distributed Systems & Event-Driven Architecture
-- Caching, Queues & Background Processing
-- Cloud Infrastructure & DevOps
-- CI/CD & Automated Deployment
-- Performance, Reliability & Scalability
-- Mobile Application Development
-- Frontend Engineering & UI/UX
-
----
-
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendramahara&layout=compact&theme=radical)
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>Areas I'm Exploring</h3>
+      <ul>
+        <li>System Design &amp; Software Architecture</li>
+        <li>Scalable Backend Systems &amp; API Design</li>
+        <li>Database Architecture &amp; Optimization</li>
+        <li>Distributed Systems &amp; Event-Driven Architecture</li>
+        <li>Caching, Queues &amp; Background Processing</li>
+        <li>Cloud Infrastructure &amp; DevOps</li>
+        <li>CI/CD &amp; Automated Deployment</li>
+        <li>Performance, Reliability &amp; Scalability</li>
+        <li>Mobile Application Development</li>
+        <li>Frontend Engineering &amp; UI/UX</li>
+      </ul>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <h3>Most Used Languages</h3>
+      <a href="https://github.com/mahendramahara">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendramahara&layout=compact&theme=radical" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
