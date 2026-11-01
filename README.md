@@ -4,7 +4,7 @@
 
 I'm a software developer from Nepal who enjoys turning ideas into practical, user-friendly software.
 
-I primarily work with JavaScript and its ecosystem, building web applications, backend services, APIs, and mobile applications. I enjoy working across the development process — from understanding a problem and designing a solution to writing code, deploying applications, and continuously improving them.
+I primarily work with JavaScript and its ecosystem, building web applications, backend services, APIs, and mobile applications. I enjoy working across the development process - from understanding a problem and designing a solution to writing code, deploying applications, and continuously improving them.
 
 I'm interested in building software that solves real problems, creates meaningful experiences, and can grow into reliable products.
 
@@ -125,4 +125,4 @@ I'm always interested in connecting with developers, learning from others, shari
 
 ---
 
-*Building, learning, experimenting, and improving — one project at a time.*
+*Building, learning, experimenting, and improving - one project at a time.*
