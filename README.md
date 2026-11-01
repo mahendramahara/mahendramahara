@@ -1,6 +1,6 @@
 # Hi, I'm Mahendra Mahara 👋
 
-### Backend Developer | System Design | Full-Stack Experience
+### Software Developer | JavaScript Developer | Full-Stack Experience
 
 I'm a software developer from Nepal. My main focus is backend development and system design - building APIs, designing database schemas, working with server-side logic, and thinking about how systems are structured and scaled.
 
@@ -68,7 +68,7 @@ I'm interested in building software that actually works well in production - rel
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 **Cloud, Deployment & DevOps**
 
@@ -139,4 +139,4 @@ I'm always open to connecting with developers, engineers, founders, and people i
 
 ---
 
-*Backend-focused, full-stack capable - building systems that work.*
+*Building software, Learning every day, Happy to help others*
